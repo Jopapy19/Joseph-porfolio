@@ -2,7 +2,7 @@
 
 # [Project 1: Data sciences Rasa chat Bot: Project overview](https://github.com/Jopapy19/rasa_vaderbot)
 
-![](images/RasaBotArkitectur.jpg)
+![](/images/RasaBotArkitectur.jpg)
 
 
 Overview
