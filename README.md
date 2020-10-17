@@ -1,4 +1,4 @@
-# hello our porfoljo
+# Projects list:
 
 # [Project 1: Data sciences Rasa chat Bot: Project overview](https://github.com/Jopapy19/rasa_vaderbot)
 
